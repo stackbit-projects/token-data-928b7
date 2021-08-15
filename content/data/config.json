@@ -35,7 +35,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Un",
+                "label": "Unete a la cooperativa",
                 "url": "/pricing",
                 "style": "primary"
             },
