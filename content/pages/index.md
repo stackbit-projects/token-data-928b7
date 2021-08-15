@@ -17,7 +17,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: secondary
     background_image: /images/background.jpg
     background_image_opacity: 10
     image: /images/buildings.png
