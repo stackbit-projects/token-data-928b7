@@ -34,13 +34,7 @@ sections:
         subtitle: >-
           Creamos un Wallet (cartera) en la que se deposita una cantidad de
           Tokens proporcional a la cantidad de datos compartidos
-        actions:
-          - label: Take a look
-            url: /pricing
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-2.svg
         image_alt: Feature 2 placeholder image
         media_position: right
