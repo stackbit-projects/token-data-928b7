@@ -112,6 +112,7 @@ sections:
     background_color: none
     title: Gana tokens por tus datos anonimizados
     background_image: /images/background.jpg
+    background_image_opacity: 10
   - type: features_section
     features:
       - title: >-
