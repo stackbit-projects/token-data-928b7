@@ -119,12 +119,6 @@ sections:
         image_alt: 'Pierre Becerril, CEO at Transparent Intelligence'
         media_position: right
         media_width: thirty-three
-      - title: “A very useful project management app. I use it every day.”
-        subtitle: 'Travis Guidelines, Manager at Company'
-        image: images/person-2.png
-        image_alt: Person 2 photo
-        media_position: left
-        media_width: thirty-three
     feature_padding_vert: small
     background_color: secondary
   - type: cta_section
