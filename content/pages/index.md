@@ -118,6 +118,7 @@ sections:
         image_alt: 'Pierre Becerril, CEO at Transparent Intelligence'
         media_position: right
         media_width: thirty-three
+        image: /images/pierre.png
     feature_padding_vert: small
     background_color: secondary
   - type: cta_section
