@@ -50,7 +50,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: /images/post-3.jpg
+        image: /images/C-data.png
     feature_padding_vert: large
     align: center
     background_color: none
