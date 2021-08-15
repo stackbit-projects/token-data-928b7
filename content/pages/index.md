@@ -45,7 +45,7 @@ sections:
           para comprar informes de mercado útiles para tu negocio.
         actions: []
         media_position: left
-        media_width: fifty
+        media_width: fourty
         align: left
         type: feature
         image: /images/post-3.jpg
