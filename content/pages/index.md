@@ -123,9 +123,11 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Une tu empresa a la revolución Blockchain
-    content: >-
-      Download App Land now and connect with all your calendars, project
-      management tools and task lists — it doesn't get easier than this!
+    content: >
+      Participa en el mejor sistema para conseguir remuneración por tus datos:
+
+      Un exchange (mercado) transparente y desregularizado que revalorizará tus
+      Tokens en base a la creciente demanda de información inmobiliaria.
     actions:
       - label: App Store
         url: /pricing
