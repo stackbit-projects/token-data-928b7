@@ -43,7 +43,7 @@
             {
                 "label": "Unete a la cooperativa",
                 "url": "/pricing",
-                "style": "secondary"
+                "style": "primary"
             }
         ]
     },
