@@ -20,7 +20,6 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    subtitle: Cómo funciona
     align: center
     grid_items:
       - title: Right When You Need It
