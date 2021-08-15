@@ -21,7 +21,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Syncronized Calendar
+      - title: 'Comparte tus Datos de forma anónima y segura:'
         subtitle: For true work-life balance
         content: >-
           Stop juggling between calendar apps and productivity tools — from now
