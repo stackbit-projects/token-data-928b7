@@ -115,7 +115,6 @@ sections:
           “Token Data me permite tener datos precisos de demanda y precios en el
           mercado.”
         subtitle: 'Pierre Becerril, CEO at Transparent Intelligence'
-        image: /images/piette headshot.png
         image_alt: 'Pierre Becerril, CEO at Transparent Intelligence'
         media_position: right
         media_width: thirty-three
