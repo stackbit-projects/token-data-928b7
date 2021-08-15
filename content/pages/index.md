@@ -20,7 +20,7 @@ sections:
     background_color: none
     background_image: /images/background.jpg
     background_image_opacity: 10
-    image: /images/buildings.png
+    image: /images/back-2.png
   - type: features_section
     features:
       - title: Comparte tus Datos de forma anónima y segura
