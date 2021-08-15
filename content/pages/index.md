@@ -25,9 +25,6 @@ sections:
         subtitle: >-
           Nuestro sistema recibe, valida y anonimiza de forma segura los datos
           básicos de tus operaciones inmobiliarias.
-        content: >-
-          Stop juggling between calendar apps and productivity tools — from now
-          on all your appointments and meetings appear in one place.
         actions:
           - label: Learn More
             url: /pricing
