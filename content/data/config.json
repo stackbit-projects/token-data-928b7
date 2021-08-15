@@ -7,7 +7,7 @@
     "mode": "dark",
     "base_font": "sans-serif",
     "header": {
-        "title": "App",
+        "title": "Token Data",
         "logo": "images/logo.svg",
         "logo_alt": "App logo",
         "has_primary_nav": true,
