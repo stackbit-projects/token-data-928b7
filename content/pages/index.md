@@ -31,7 +31,7 @@ sections:
         image: /images/1-3d.png
         image_alt: Feature 1 placeholder image
         media_position: left
-        media_width: sixty
+        media_width: thirty-three
       - title: Recibe Tokens a cambio de tus datos
         subtitle: >-
           Creamos un Wallet (cartera) en la que se deposita una cantidad de
