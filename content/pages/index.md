@@ -72,9 +72,11 @@ sections:
         image_position: top
       - title: ¿Cómo conseguir Tokens?
         title_align: left
-        content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+        content: >
+          En nuestro *exchange* un Token se intercambia por datos inmobiliarios.
+
+          Los participantes de la cooperativa reciben Tokens a cambio de sus
+          datos anonimizados de transacciones 
         content_align: left
         actions:
           - label: Learn More
