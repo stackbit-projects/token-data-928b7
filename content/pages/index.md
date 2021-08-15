@@ -18,7 +18,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: /images/back-1.png
+    background_image: /images/background.jpg
     background_image_opacity: 100
   - type: features_section
     features:
