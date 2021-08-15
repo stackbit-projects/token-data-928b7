@@ -75,6 +75,10 @@ sections:
         image_align: left
         image_has_padding: true
         image_position: top
+        subtitle: >-
+          Un Token como una criptomoneda, es un medio digital de intercambio
+          seguro y anónimo que permite generar un valor de mercado en base a su
+          oferta y demanda.
       - title: On Any Device
         title_align: left
         content: >-
