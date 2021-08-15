@@ -55,7 +55,7 @@ sections:
     align: center
     background_color: none
     title: Cómo funciona
-    padding_top: none
+    padding_top: small
   - type: grid_section
     align: center
     grid_items:
