@@ -8,7 +8,7 @@ sections:
       - label: Cómo Funciona
         url: /pricing
         style: primary
-      - label: Google Play
+      - label: Unete a la cooperativa
         url: /pricing
         style: secondary
     image: images/hero.svg
