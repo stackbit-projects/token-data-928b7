@@ -40,7 +40,9 @@ sections:
         media_position: right
         media_width: fifty
       - title: Gestiona tus Tokens
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Vende tus Tokens por dinero, guárdalos como inversión o utilízalos
+          para comprar informes de mercado útiles para tu negocio.
         content: >-
           ## Lorem ipsum
 
