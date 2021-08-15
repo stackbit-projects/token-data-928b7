@@ -116,7 +116,7 @@ sections:
           mercado.”
         subtitle: 'Pierre Becerril, CEO at Transparent Intelligence'
         image: /images/piette headshot.png
-        image_alt: Person 1 photo
+        image_alt: 'Pierre Becerril, CEO at Transparent Intelligence'
         media_position: right
         media_width: thirty-three
       - title: “A very useful project management app. I use it every day.”
