@@ -114,7 +114,7 @@ sections:
       - title: >-
           “Token Data me permite tener datos precisos de demanda y precios en el
           mercado.”
-        subtitle: 'Alyvia Cope, Design at Company'
+        subtitle: 'Pierre Becerril, CEO at Transparent Intelligence'
         image: images/person-1.png
         image_alt: Person 1 photo
         media_position: right
