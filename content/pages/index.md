@@ -126,8 +126,6 @@ sections:
     content: >
       Participa en el mejor sistema para conseguir remuneración por tus datos:
 
-
-
       Un exchange (mercado) transparente y desregularizado que revalorizará tus
       Tokens en base a la creciente demanda de información inmobiliaria.
     actions:
