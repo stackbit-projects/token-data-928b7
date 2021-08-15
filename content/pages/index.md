@@ -131,7 +131,7 @@ sections:
     actions:
       - label: Unete a la cooperativa
         url: /pricing
-        style: primary
+        style: secondary
     actions_position: bottom
     align: center
     padding_top: large
