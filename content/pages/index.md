@@ -8,7 +8,7 @@ sections:
       - label: Cómo funciona
         url: /pricing
         style: secondary
-      - label: Unete a la cooperativa
+      - label: Únete a la cooperativa
         url: /pricing
         style: primary
     image: /images/buildings.png
