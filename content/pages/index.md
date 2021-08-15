@@ -5,7 +5,7 @@ sections:
     title: Cooperativa de datos Real Estate
     subtitle: Gana tokens por tus datos anonimizados en el primer Exchange Inmobiliario.
     actions:
-      - label: 'Cómo '
+      - label: Cómo Funciona
         url: /pricing
         style: primary
       - label: Google Play
