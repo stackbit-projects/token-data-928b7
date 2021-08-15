@@ -21,7 +21,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: 'Comparte tus Datos de forma anónima y segura:'
+      - title: Comparte tus Datos de forma anónima y segura
         subtitle: >-
           Nuestro sistema recibe, valida y anonimiza de forma segura los datos
           básicos de tus operaciones inmobiliarias.
