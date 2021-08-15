@@ -20,7 +20,8 @@ sections:
     background_color: none
     background_image: /images/background.jpg
     background_image_opacity: 0
-    image: /images/buildings.png
+    image: >-
+      /images/businessman-using-mobile-phone-outdoors-to-buy-and-sell-bitcoin-online-cryptocurrency-investment.jpg
   - type: features_section
     features:
       - title: Comparte tus Datos de forma anónima y segura
