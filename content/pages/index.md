@@ -4,10 +4,6 @@ sections:
   - type: hero_section
     title: Cooperativa de datos Real Estate
     subtitle: Gana tokens por tus datos anonimizados en el primer Exchange Inmobiliario.
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
     actions:
       - label: App Store
         url: /pricing
