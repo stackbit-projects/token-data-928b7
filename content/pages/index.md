@@ -109,7 +109,7 @@ sections:
     grid_gap_vert: small
     enable_cards: true
     padding_top: medium
-    padding_bottom: none
+    padding_bottom: small
     background_color: none
     title: Gana tokens por tus datos anonimizados
     background_image: /images/background.jpg
