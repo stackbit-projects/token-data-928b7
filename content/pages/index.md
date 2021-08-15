@@ -129,7 +129,7 @@ sections:
       Un exchange (mercado) transparente y desregularizado que revalorizará tus
       Tokens en base a la creciente demanda de información inmobiliaria.
     actions:
-      - label: App Store
+      - label: Unete a la cooperativa
         url: /pricing
         style: primary
       - label: Google Play
