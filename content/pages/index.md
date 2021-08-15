@@ -149,7 +149,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: cover
     background_image_opacity: 10
-    actions_width: fifty
+    actions_width: fourty
   - type: blog_feed_section
     title: Productivity Blog
     subtitle: What's Up?
