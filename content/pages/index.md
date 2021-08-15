@@ -34,10 +34,6 @@ sections:
         subtitle: >-
           Creamos un Wallet (cartera) en la que se deposita una cantidad de
           Tokens proporcional a la cantidad de datos compartidos
-        content: >-
-          We all have stuff to do all the time: Work tasks, calls to make,
-          groceries to buy and dry cleaning to pick up. Get all your tasks in
-          one place for easy management.
         actions:
           - label: Take a look
             url: /pricing
