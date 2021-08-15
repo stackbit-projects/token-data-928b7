@@ -5,7 +5,7 @@ sections:
     title: Cooperativa de datos Real Estate
     subtitle: Gana tokens por tus datos anonimizados en el primer Exchange Inmobiliario.
     actions:
-      - label: Cómo Funciona
+      - label: Cómo funciona
         url: /pricing
         style: primary
       - label: Unete a la cooperativa
