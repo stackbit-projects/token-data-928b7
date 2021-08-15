@@ -43,17 +43,6 @@ sections:
         subtitle: >-
           Vende tus Tokens por dinero, guárdalos como inversión o utilízalos
           para comprar informes de mercado útiles para tu negocio.
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
