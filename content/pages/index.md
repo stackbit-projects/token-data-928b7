@@ -87,9 +87,12 @@ sections:
         image_position: top
       - title: ¿Qué valor tienen mis Tokens?
         title_align: left
-        content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        content: >
+          Cuando clientes externos desea adquirir informes basado en los datos
+          compartidos, deberán pagar dinero por adquirir los Tokens que
+          comprarán esa información. 
+
+          Esa demanda determina el aumento del valor de los Tokens.
         content_align: left
         actions:
           - label: Learn More
