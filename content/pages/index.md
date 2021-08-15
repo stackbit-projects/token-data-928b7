@@ -19,7 +19,7 @@ sections:
     padding_bottom: large
     background_color: none
     background_image: /images/background.jpg
-    background_image_opacity: 0
+    background_image_opacity: 10
     image: /images/buildings.png
   - type: features_section
     features:
