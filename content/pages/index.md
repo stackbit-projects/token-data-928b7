@@ -20,7 +20,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: 'Unete a la revolucón '
+    title: Unete a la revolución Crypto
     subtitle: In a Glance
     align: center
     grid_items:
