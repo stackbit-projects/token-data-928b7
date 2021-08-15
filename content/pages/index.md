@@ -58,9 +58,10 @@ sections:
     grid_items:
       - title: ¿Qué es un Token?
         title_align: left
-        content: >-
-          See all of your appointments, work meetings and life events in one
-          place so you know exactly where you need to be at any given time.
+        content: >
+          Un Token como una criptomoneda, es un medio digital de intercambio
+          seguro y anónimo que permite generar un valor de mercado en base a su
+          oferta y demanda.
         content_align: left
         actions:
           - label: Learn More
