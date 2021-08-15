@@ -56,7 +56,7 @@ sections:
   - type: grid_section
     align: center
     grid_items:
-      - title: Right When You Need It
+      - title: ¿Qué es un Token?
         title_align: left
         content: >-
           See all of your appointments, work meetings and life events in one
