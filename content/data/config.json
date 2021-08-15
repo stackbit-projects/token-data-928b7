@@ -38,7 +38,7 @@
                 "label": "Contacto",
                 "url": "/pricing",
                 "style": "secondary",
-                "has_icon": false
+                "has_icon": true
             },
             {
                 "label": "Unete a la cooperativa",
