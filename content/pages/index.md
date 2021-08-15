@@ -126,7 +126,7 @@ sections:
         media_position: left
         media_width: thirty-three
     feature_padding_vert: small
-    background_color: none
+    background_color: primary
   - type: cta_section
     title: Regain Control of your To Dos
     content: >-
