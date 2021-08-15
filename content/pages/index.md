@@ -7,7 +7,7 @@ sections:
     actions:
       - label: Cómo funciona
         url: /pricing
-        style: primary
+        style: secondary
       - label: Unete a la cooperativa
         url: /pricing
         style: primary
