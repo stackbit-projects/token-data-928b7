@@ -111,7 +111,9 @@ sections:
     subtitle: Gana tokens por tus datos anonimizados
   - type: features_section
     features:
-      - title: “me pertmite tener datos precisos de demanda y precios en el mercado.”
+      - title: >-
+          “Token Data me pertmite tener datos precisos de demanda y precios en
+          el mercado.”
         subtitle: 'Alyvia Cope, Design at Company'
         image: images/person-1.png
         image_alt: Person 1 photo
