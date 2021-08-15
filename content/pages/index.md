@@ -30,7 +30,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: left
         media_width: fifty
-      - title: Comprehensive Task List
+      - title: Recibe Tokens a cambio de tus datos
         subtitle: Always be in control
         content: >-
           We all have stuff to do all the time: Work tasks, calls to make,
