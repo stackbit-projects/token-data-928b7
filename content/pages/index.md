@@ -126,6 +126,7 @@ sections:
         image: /images/pierre.png
     feature_padding_vert: small
     background_color: secondary
+    padding_bottom: small
   - type: cta_section
     title: Une tu empresa a la revolución Blockchain
     content: >
