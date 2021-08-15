@@ -22,7 +22,9 @@ sections:
   - type: features_section
     features:
       - title: 'Comparte tus Datos de forma anónima y segura:'
-        subtitle: For true work-life balance
+        subtitle: >-
+          Nuestro sistema recibe, valida y anonimiza de forma segura los datos
+          básicos de tus operaciones inmobiliarias.
         content: >-
           Stop juggling between calendar apps and productivity tools — from now
           on all your appointments and meetings appear in one place.
