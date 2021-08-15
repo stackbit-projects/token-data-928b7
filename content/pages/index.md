@@ -35,7 +35,7 @@ sections:
           Creamos un Wallet (cartera) en la que se deposita una cantidad de
           Tokens proporcional a la cantidad de datos compartidos
         actions: []
-        image: images/feature-2.svg
+        image: /images/post-2.jpg
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: fifty
