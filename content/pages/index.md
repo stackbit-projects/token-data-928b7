@@ -57,7 +57,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    subtitle: Cómo funciona
   - type: grid_section
     align: center
     grid_items:
