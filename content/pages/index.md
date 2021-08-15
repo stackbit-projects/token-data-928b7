@@ -28,7 +28,7 @@ sections:
           Nuestro sistema recibe, valida y anonimiza de forma segura los datos
           básicos de tus operaciones inmobiliarias.
         actions: []
-        image: /images/1-d.png
+        image: /images/1-data.png
         image_alt: Feature 1 placeholder image
         media_position: left
         media_width: fourty
