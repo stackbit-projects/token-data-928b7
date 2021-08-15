@@ -38,7 +38,7 @@
                 "label": "Contacto",
                 "url": "/pricing",
                 "style": "secondary",
-                "has_icon": true
+                "has_icon": false
             },
             {
                 "label": "Google Play",
