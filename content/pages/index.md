@@ -51,7 +51,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: /images/icon-1.svg
+        image: /images/post-3.jpg
     feature_padding_vert: large
     align: center
     background_color: none
