@@ -11,7 +11,6 @@ sections:
       - label: Únete a la cooperativa
         url: /pricing
         style: primary
-    image: /images/buildings.png
     image_alt: Hero section placeholder image
     media_position: right
     media_width: fifty
