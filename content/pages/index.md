@@ -58,6 +58,10 @@ sections:
     align: center
     background_color: none
     title: Cómo funciona
+    subtitle: >-
+      Los datos de transacciónes son muy valiosos ya que permiten a actores del
+      mercado tomar decisiones estratégicas de inversión. Nuestro sistema los
+      agrega de forma anónima para generar y proveer informes de mercado.
   - type: grid_section
     align: center
     grid_items:
